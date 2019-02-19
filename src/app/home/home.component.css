@@ -1,0 +1,43 @@
+
+#routeTestFaculty{
+    width: 25%;
+    height: 75px;
+    border: 1px solid red;
+    float: left;
+}
+#routeTestStudent{
+    width: 25%;
+    height: 75px;
+    border: 1px solid green;
+    float: right;
+}
+
+
+.rounded-circle{
+    margin-top: 60px;
+    margin-left: 70px;
+
+
+}
+
+h3{
+    margin-top: 30px;
+
+    margin-left: 40px;
+    
+}
+
+
+.nikhil{
+    /* margin-top: 130px; */
+    border:2px solid darkslategray;
+    box-sizing: content-box;
+        width: 30%;
+        height: 80%;
+        padding:  10px;
+        margin-top: 150px;
+        border-radius: 15px;
+        /* margin-bottom: 150px; */
+        background-color: darkslategray;
+    
+}

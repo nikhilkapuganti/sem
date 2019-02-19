@@ -1,0 +1,35 @@
+@font-face{
+    font-family: test;
+    src: url("../assets/BalsamiqSansRegular.ttf") format("opentype");
+}
+#container {
+    min-height:100%;
+    position:relative;
+ }
+ #header {
+    /* padding:10px; */
+ }
+ #body {
+    padding:10px;
+    padding-bottom:60px;   /* Height of the footer */
+ }
+ #footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;   /* Height of the footer */
+    background:#6cf;
+ }
+
+/* #mainHeader{
+    min-height: 100px;
+    width: 100%;
+    background-color: #333333;
+    font-family: test;
+}
+.headerContent{
+    border: 1px solid white;
+    width: 65%;
+    height: 75px;
+    margin-left: 100px;
+} */

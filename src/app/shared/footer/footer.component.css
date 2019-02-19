@@ -1,0 +1,30 @@
+
+.navbar{
+    background-color:darkslategray !important;
+}
+.navbar .navbar-brand{
+    color: #FFF;
+}
+
+.navbar .navbar-brand:hover{
+    color: #FFF;
+    
+}
+
+.navbar .navbar-nav li a{
+    color: #FFF ! important;
+}
+.footer {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+    height: 2em;
+     /* position: absolute;  */
+     position:relative; 
+    margin-top:auto; 
+    /* z-index:1; */
+}
